@@ -22,3 +22,4 @@ barplot(matrix,
 leg =  legend("topright",
               c("Real","Limit", "SDBWS"),
               fill = c("blue","red", "green"))
+
